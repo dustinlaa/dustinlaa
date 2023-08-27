@@ -11,7 +11,7 @@ Hi! My name is Dustin La and I am majoring in **Computer Science** with a Minor 
 
 - 🌱 I have a passion to learn more about programming and software development
 - 🤝 I'm always looking for more opportunities to network
-- 👨🏻‍💻 I'm looking to be a software engineer with interests in Software Development, AI, and Game Development
+- 👨🏻‍💻 I'm looking to be a Software Engineer with interests in Software Development, AI, and Game Development
 - 👾 Fun fact: I grew up playing Nintendo Games from the Nintendo DS to the Nintendo Switch
 
 Check out my Portfolio Website Here:
