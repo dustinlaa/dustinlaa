@@ -20,6 +20,7 @@ Check out my Portfolio Website Here:
 ## My Skills
 <p>
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat">
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat">
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">
@@ -27,8 +28,11 @@ Check out my Portfolio Website Here:
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?logo=Java&logoColor=white&style=flat">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat">
+  <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-47A248?logo=noSQL&logoColor=white&style=flat">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat">
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat">
 </p>
