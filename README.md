@@ -28,7 +28,6 @@ Check out my Portfolio Website Here:
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat">
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?logo=Java&logoColor=white&style=flat">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat">
   <img alt="NoSQL" src="https://img.shields.io/badge/-NoSQL-47A248?logo=noSQL&logoColor=white&style=flat">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
