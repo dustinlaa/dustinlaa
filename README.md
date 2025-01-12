@@ -6,7 +6,7 @@
   [![Devpost Badge](https://img.shields.io/badge/-Devpost-003E54?style=flat&logo=devpost&logoColor=white&link=https://devpost.com/drl3?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)](https://devpost.com/drl3?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 </p>
 
-Hi! My name is Dustin La and I am majoring in **Computer Science** with a Minor in **IT** at the **New Jersey Institute of Technology (NJIT)**. <br><br>  Nice to meet you :)
+Hi! My name is Dustin La and I am a Software Engineer at Avanade, where I specialize as a Back-end Developer Analyst. I graduated with a B.S. in **Computer Science** with a Minor in **IT** at the **New Jersey Institute of Technology (NJIT)**. <br><br>  Nice to meet you :)
 
 - 🌱 I have a passion to learn more about programming and software development
 - 🤝 I'm always looking for more opportunities to network
