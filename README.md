@@ -4,7 +4,6 @@
   [![Linkedin Badge](https://img.shields.io/badge/-dustin--la-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dustin-la/)](https://www.linkedin.com/in/dustin-la/)
   [![Handshake Badge](https://img.shields.io/badge/-Handshake-FF2F1C?style=flat&logo=handshake&logoColor=white&link=https://njit.joinhandshake.com/stu/users/27534499)](https://njit.joinhandshake.com/stu/users/27534499)
   [![Devpost Badge](https://img.shields.io/badge/-Devpost-003E54?style=flat&logo=devpost&logoColor=white&link=https://devpost.com/drl3?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)](https://devpost.com/drl3?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-  [![Gmail Badge](https://img.shields.io/badge/-drl3@njit.edu-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:drl3@njit.edu)](mailto:drl3@njit.edu)
 </p>
 
 Hi! My name is Dustin La and I am majoring in **Computer Science** with a Minor in **IT** at the **New Jersey Institute of Technology (NJIT)**. <br><br>  Nice to meet you :)
